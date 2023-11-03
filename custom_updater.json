@@ -1,0 +1,10 @@
+{
+  "climate.atrea": {
+    "updated_at": "2023-01-11",
+    "local_location": "/custom_components/aatrea/climate.py",
+    "version": "0.1",
+    "changelog": "https://github.com/xbezdick/AAtrea/commits/master",
+    "visit_repo": "https://github.com/xbezdick/AAtrea/",
+    "remote_location": "https://raw.githubusercontent.com/xbezdick/AAtrea/master/custom_components/atrea/climate.py"
+  }
+}

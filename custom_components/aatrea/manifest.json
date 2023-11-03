@@ -1,0 +1,10 @@
+{
+  "domain": "aatrea",
+  "name": "AAtrea",
+  "documentation": "https://github.com/xbezdick/AAtrea",
+  "dependencies": [],
+  "codeowners": ["@xbezdick"],
+  "requirements": [],
+  "version": "0.1",
+  "homeassistant": "2023.11.0"
+}
